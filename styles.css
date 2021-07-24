@@ -8,5 +8,10 @@ li {
 }
 
 .NBA {
-    
+    background-color: navy;
+    color: white;
+}
+.NFL { 
+    background-color: red;
+    color: white; 
 }
