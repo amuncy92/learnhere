@@ -9,9 +9,12 @@ li {
 
 .NBA {
     background-color: navy;
-    color: white;
+    color: rgb(17, 10, 10);
 }
 .NFL { 
     background-color: red;
     color: white; 
+}
+.newpeople { 
+    background-color: teal;
 }
