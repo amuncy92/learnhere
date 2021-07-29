@@ -1,0 +1,24 @@
+p {
+background-color: antiquewhite;
+font-family: Cambria, serif;
+}
+li {
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.NBA {
+    background-color: wheat;
+    color: navy(17, 10, 10);
+}
+.NFL { 
+    background-color: wheat;
+    color: red; 
+}
+.newpeople { 
+    background-color: teal;
+}
+input {
+    background-color: wheat;
+    color: teal;
+}
