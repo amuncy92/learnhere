@@ -8,13 +8,17 @@ li {
 }
 
 .NBA {
-    background-color: navy;
-    color: rgb(17, 10, 10);
+    background-color: wheat;
+    color: navy(17, 10, 10);
 }
 .NFL { 
-    background-color: red;
-    color: white; 
+    background-color: wheat;
+    color: red; 
 }
 .newpeople { 
     background-color: teal;
+}
+input {
+    background-color: wheat;
+    color: teal;
 }
