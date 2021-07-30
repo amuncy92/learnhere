@@ -10,16 +10,10 @@ h2 {
     font-style: Helvetica; 
     text-align: center;
 }
-.NBA {
+
+.Sporty { 
     background-color: white;
-    color: navy(17, 10, 10);
-    border: 10px;
-    font-style: Helvetica; 
-    text-align: center;
-}
-.NFL { 
-    background-color: white;
-    color: red; 
+    color: navy; 
     font-style: Helvetica; 
     text-align: center;
 }
