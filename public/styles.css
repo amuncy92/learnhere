@@ -8,17 +8,20 @@ li {
 }
 h2 { 
     font-style: Helvetica; 
+    text-align: center;
 }
 .NBA {
     background-color: white;
     color: navy(17, 10, 10);
     border: 10px;
     font-style: Helvetica; 
+    text-align: center;
 }
 .NFL { 
     background-color: white;
     color: red; 
     font-style: Helvetica; 
+    text-align: center;
 }
 .newpeople { 
     background-color: teal;
