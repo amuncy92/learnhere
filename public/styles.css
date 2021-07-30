@@ -6,14 +6,19 @@ li {
     color: green;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+h2 { 
+    font-style: Helvetica; 
+}
 .NBA {
-    background-color: wheat;
+    background-color: white;
     color: navy(17, 10, 10);
+    border: 10px;
+    font-style: Helvetica; 
 }
 .NFL { 
-    background-color: wheat;
+    background-color: white;
     color: red; 
+    font-style: Helvetica; 
 }
 .newpeople { 
     background-color: teal;
