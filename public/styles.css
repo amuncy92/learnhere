@@ -25,5 +25,9 @@ input {
     color: teal;
 }
 .NBA {
-    background-image: url("https://cdn.nba.com/manage/2020/10/NBA20Secondary20Logo-784x462.jpg");
+
+}
+body {
+    background-color: #817a7a; 
+    color: navy;
 }
